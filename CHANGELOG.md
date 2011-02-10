@@ -2,10 +2,8 @@
 
 
 
-## 0.7.2 (February 8, 2011)
+## 0.7.2-nixme (February 10, 2011)
 
-  - Update JSON dependency to 1.5.1, which works with Ruby 1.9 on
-    Windows.
   - Fix sudo issues on sudo < 1.7.0 (again).
   - Fix race condition in SSH, which specifically manifested itself in
     the chef server provisioner. [GH-295]
